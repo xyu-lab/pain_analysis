@@ -17,3 +17,10 @@ Within the 'Evoked Behavior Analysis' module:
 - `Step8_FeatureExtraction` : Extract behavior features from the long read csv file
 
 
+## Contact
+
+This analysis was created by the Xiaobing Yu Lab at University of California, San Francisco
+
+Darian Mohsenin
+Email: darian.mohsenin@ucsf.edu
+GitHub: dmohsenin
